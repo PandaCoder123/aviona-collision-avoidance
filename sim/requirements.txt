@@ -1,0 +1,4 @@
+jsbsim>=1.2
+numpy
+pygame
+pyttsx3
